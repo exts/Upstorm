@@ -1,0 +1,13 @@
+name: Upstorm
+version: 1.0.0
+
+authors:
+  - exts
+
+targets:
+  Upstorm:
+    main: src/Upstorm.cr
+
+crystal: 0.21.1
+
+license: MIT
